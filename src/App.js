@@ -40,6 +40,8 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Navigate to="/"/>} />
+          {/* redirect routes */}
+          <Route path="/craftycore" element={<Navigate to={{ pathname: "https://www.fiverr.com/craftycore" }} />} />
         </Routes>
         <Footer />
       </div>
