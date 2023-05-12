@@ -2,15 +2,15 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import EmployeeRecordSystem from "../../Assets/Projects/EmployeeRecordSystem.png";
-import LibraryManagementSystem from "../../Assets/Projects/LibraryManagementSystem.png";
-import ClassManagementSystem from "../../Assets/Projects/ClassManagementSystem.png";
-import PetsRecognitionSystem from "../../Assets/Projects/PetsRecognitionSystem.png";
-import SupplyandDemandManagementSystem from "../../Assets/Projects/SupplyandDemandManagementSystem.png";
-import EmpoweringtheFuture from "../../Assets/Projects/EmpoweringtheFuture.png";
-import BringingJoytotheNation from "../../Assets/Projects/BringingJoytotheNation.png";
-import OptimizingEfficiency from "../../Assets/Projects/OptimizingEfficiency.png";
-import DivingintoAdventure from "../../Assets/Projects/DivingintoAdventure.png";
+import EmployeeRecordSystem from "../../Assets/Projects/EmployeeRecordSystem.webp";
+import LibraryManagementSystem from "../../Assets/Projects/LibraryManagementSystem.webp";
+import ClassManagementSystem from "../../Assets/Projects/ClassManagementSystem.webp";
+import PetsRecognitionSystem from "../../Assets/Projects/PetsRecognitionSystem.webp";
+import SupplyandDemandManagementSystem from "../../Assets/Projects/SupplyandDemandManagementSystem.webp";
+import EmpoweringtheFuture from "../../Assets/Projects/EmpoweringtheFuture.webp";
+import BringingJoytotheNation from "../../Assets/Projects/BringingJoytotheNation.webp";
+import OptimizingEfficiency from "../../Assets/Projects/OptimizingEfficiency.webp";
+import DivingintoAdventure from "../../Assets/Projects/DivingintoAdventure.webp";
 
 
 function Projects() {

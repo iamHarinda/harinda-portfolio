@@ -1,14 +1,12 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.webp";
 import Tilt from "react-parallax-tilt";
 import {
-  AiFillGithub,
   AiFillInstagram,
   AiFillFacebook,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
-import { FaQuora } from "react-icons/fa";
+import { FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -71,12 +69,12 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/iamharinda"
+                  href="https://wa.me/94765329064"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiFillGithub />
+                  <FaWhatsapp />
                 </a>
               </li>
               <li className="social-icons">
@@ -97,16 +95,6 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.quora.com/profile/Harinda-Vishwantha"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaQuora />
                 </a>
               </li>
             </ul>
