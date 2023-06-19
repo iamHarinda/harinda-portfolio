@@ -47,6 +47,32 @@ function AboutCard() {
             </ul>
           </p>
 
+          <p style={{ textAlign: "left" }}>⭐ Certifications and Achievements
+            <ul>
+              <li className="about-activity">
+                <ImPointRight /> <span className="purple">Google Analytics for Beginners</span> | Google
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> <span className="purple">Fundamentals of digital marketing</span> | Google
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> <span className="purple">Docker Training Course</span> | KodeKloud
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> <span className="purple">Amazon Elastic Container Service (AWS ECS)</span> | KodeKloud
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> <span className="purple">JSON Path Test</span> | KodeKloud
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> <span className="purple">Linode : Kubernetes Engine</span> | KodeKloud
+              </li>
+              <li className="about-activity">
+                <ImPointRight /> <span className="purple">Jinja2 Basics</span> | KodeKloud
+              </li>
+            </ul>
+          </p>
+
           <hr></hr>
           <h2>Enough about me; what about you?</h2>
           <a href="mailto:hello@iamharinda.com" class="purple">hello@iamharinda.com</a>

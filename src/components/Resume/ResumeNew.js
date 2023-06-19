@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-      "https://raw.githubusercontent.com/iamHarinda/iamharinda-webapp/master/src/Assets/Harinda_Vishwantha_Resume.pdf";
+      "https://docs.google.com/document/d/1Ny6OQn2SfdCvzKNnbgwjq7qHHPI18p8DyhAwzTmdKiM/edit?usp=sharing";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
